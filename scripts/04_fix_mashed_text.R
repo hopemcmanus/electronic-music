@@ -10,6 +10,7 @@ message("Fixing mashed text entries...")
 fixes <- tribble(
   ~genre, ~fixed_stylistic_origins,
   
+  # EXISTING FIXES (keep all of these)
   "Ambient music", "Background music, beautiful music, drone, dub, easy listening, electronic, experimental, impressionist, krautrock, musique concrète, new age, new-age, space",
   "Deconstructed club", "Club music, experimental",
   "Downtempo", "Electronic, ambient, Bristol sound, hip hop",
@@ -17,7 +18,6 @@ fixes <- tribble(
   "Drift phonk", "Hip hop, Memphis rap, electronic",
   "Drone music", "Minimalist, ambient, experimental",
   "Dub music", "Reggae, ska, electronic",
-  "Glitch (music)", "Electronic, experimental, IDM",
   "Industrial metal", "Industrial, heavy metal, thrash metal",
   "Maidcore", "Electronic music, post-rock, anime music",
   "Nightcore", "Eurodance, happy hardcore, J-pop, trance",
@@ -26,7 +26,12 @@ fixes <- tribble(
   "Techno", "House, electro, synth-pop, hi-NRG, EBM, Eurodisco, Italo disco, post-disco",
   "Acid (electronic music)", "Chicago house, techno, trance",
   "Ambient techno", "Techno, ambient house, ambient, new age, chill-out",
-  "Electro-industrial", "EBM, post-industrial"
+  "Electro-industrial", "EBM, post-industrial",
+  "Trip hop", "Electronic, hip hop, downtempo, ambient, reggae, psychedelia, soul, dub, R&B, jazz, funk, rock",
+  
+  # ADD THESE TWO NEW ONES:
+  "Psydub", "Psychedelic trance, psybient, ambient, dub, reggae",
+  "Glitch (music)", "Electronic, sound art, musique concrète, IDM, experimental"
 )
 
 # Apply fixes

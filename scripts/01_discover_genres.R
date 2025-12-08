@@ -42,15 +42,15 @@ get_category_members <- function(category_name, max_results = 100) {
 main_categories <- c(
   "Electronic_music_genres",
   "Techno",
-  "House_music",
-  "Trance_music"
+  "House_music"#,
+ # "Trance_music"
 )
 
 # Get all genres
 all_genres <- map_df(main_categories, function(cat) {
   message("Fetching from category: ", cat)
   Sys.sleep(1)
-  get_category_members(cat, max_results = 50)
+  get_category_members(cat, max_results = 100)
 })
 
 # Clean up

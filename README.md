@@ -457,5 +457,5 @@ MIT License - Feel free to use, modify, and distribute.
 ## Version History
 
 **v1.0** (December 2025) - Initial release - 7-script automated
-pipeline - Discovers, scrapes, and visualises genre networks - 203
-nodes, 291 edges
+pipeline - Discovers, scrapes, and visualises genre networks - 231
+nodes, 385 edges
