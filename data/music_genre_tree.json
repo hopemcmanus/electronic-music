@@ -1,0 +1,3476 @@
+{
+  "Q20502": {
+    "qid": "Q20502",
+    "label": "house music",
+    "children_qids": ["Q598593", "Q627906", "Q2748817", "Q3032212", "Q30917612", "Q1585015", "Q928825", "Q20021059", "Q85748774", "Q874038", "Q18358879", "Q915152", "Q202925", "Q107090501", "Q27345019", "Q85741139", "Q388100", "Q29973057", "Q956717", "Q173844", "Q341364", "Q360596", "Q601235", "Q780517", "Q949369", "Q1071961", "Q1415568", "Q1455292", "Q1931555", "Q1938987", "Q2465085", "Q2702280", "Q3050572", "Q3056538", "Q4852979", "Q5071702", "Q9373944", "Q11693015", "Q11696996", "Q15300817", "Q18342587", "Q25407483", "Q56342439", "Q60729751", "Q80725127", "Q109538574", "Q98088041", "Q105636940", "Q105637110", "Q106522098", "Q106634944", "Q107697041", "Q108297203", "Q108321657", "Q108610259", "Q108610706", "Q109146989", "Q109148913", "Q109378734", "Q110101956", "Q116296482", "Q116875230", "Q119438497", "Q123753500", "Q126175574"],
+    "children_labels": ["tech house", "electro house", "ghetto house", "diva house", "Eurohouse", "hard house", "garage house", "future house", "Brazilian bass", "deep house", "outsider house", "progressive house", "tribal house", "Chicago hard house", "bass house", "amapiano", "Afro house", "gqom", "kwaito", "vocal house", "acid house", "disco house", "hip house", "speed garage", "funky house", "Chicago house", "filter house", "French house", "microhouse", "club house", "ambient house", "Italo house", "electro urban", "Latin house", "Baltimore club", "changa tuki", "vixa", "dark house", "epic house", "big room house", "tropical house", "stadium house", "dream house", "soulful house", "future funk", "vinahouse", "smurf house", "leftfield house", "jazz house", "ballroom", "festival progressive house", "g-house", "bubbling house", "jackin' house", "circuit house", "Detroit house", "piano house", "organic house", "popcorn music", "eletrofunk", "melodic house", "gospel house", "UK jackin'", "phonk house", "stutter house"]
+  },
+  "Q9778": {
+    "qid": "Q9778",
+    "label": "electronic music",
+    "children_qids": ["Q851213", "Q757143", "Q817138", "Q325504", "Q1326777", "Q98528166", "Q1403744", "Q5551384", "Q2342263", "Q11308620", "Q3876770", "Q4059163", "Q1634085", "Q6865341", "Q65937906", "Q2626684", "Q90568328", "Q106422444", "Q116985035", "Q106576170", "Q106528337", "Q105763581", "Q106369996", "Q112997482", "Q107697234", "Q181999", "Q863539", "Q1658757", "Q1840167", "Q2304103", "Q3476798", "Q4736507", "Q5358022", "Q5502126", "Q5597175", "Q9298306", "Q17231682", "Q21260785", "Q48770362", "Q66686936", "Q98804240", "Q106574871", "Q107486984", "Q108297235", "Q110593076", "Q110593078", "Q111387914", "Q115063474", "Q115200681", "Q122216296", "Q124851801", "Q127470373", "Q129098689", "Q131286868", "Q134983275"],
+    "children_labels": ["electronic dance music", "chill-out music", "electronica", "electronic rock", "electroacoustic music", "Latin electronic music", "electro-industrial", "German electronic music", "space music", "synth music", "nightcore", "classical electronic music", "tecno brega", "minimal wave", "leftfield electronic", "chillwave", "phonk", "bit music", "electronic pop", "tribal music", "acid music", "experimental electronic music", "wave", "drift phonk", "HexD", "minimal electro", "binaural beats", "illbient", "witch house", "Sound of Frankfurt", "seapunk", "alternative electronic", "electrogaze", "French electronic music", "graphical sound", "electro-goth", "A&D", "rara tech", "Chilean electronic music", "electro-orchestral music", "disk drive music", "beatdown", "electro-folk", "epic collage", "Levant electronic music", "Maghreb electronic music", "moogsploitation", "digital fusion", "electro-R&B", "sigma music", "acholitronix", "electro dub", "maloya électronique", "fixed media", "aliencore"]
+  },
+  "Q851213": {
+    "qid": "Q851213",
+    "label": "electronic dance music",
+    "children_qids": ["Q20502", "Q388906", "Q372103", "Q663519", "Q660984", "Q217597", "Q655514", "Q216961", "Q188994", "Q170611", "Q170435", "Q21092", "Q114880130", "Q1033912", "Q898709", "Q98528149", "Q1165777", "Q12200830", "Q9364028", "Q1166726", "Q106514601", "Q19938910", "Q110527222", "Q106576141", "Q11332204", "Q1191544", "Q4049849", "Q1136045", "Q848852", "Q362515", "Q382343", "Q513357", "Q602561", "Q2406633", "Q2866725", "Q861823", "Q888137", "Q1325944", "Q1661924", "Q2467789", "Q3039303", "Q3108920", "Q4045538", "Q5716953", "Q7844612", "Q10293901", "Q17146868", "Q18379604", "Q19358266", "Q21006606", "Q25408203", "Q30594541", "Q30902501", "Q55641646", "Q55641735", "Q56276781", "Q65330805", "Q65937774", "Q100922002", "Q101109587", "Q104602773", "Q105672644", "Q106130091", "Q106520965", "Q106547179", "Q106876075", "Q107697201", "Q108297187", "Q108297243", "Q109469638", "Q109589387", "Q109873537", "Q110391587", "Q111442385", "Q114443489", "Q115890848", "Q117198196", "Q120484427", "Q122932896", "Q126335126", "Q131529620", "Q132324210", "Q134380635", "Q135437136"],
+    "children_labels": ["house music", "hardcore", "electronic body music", "breakbeat", "intelligent dance music", "electro", "freestyle music", "Eurodance", "drum and bass", "techno", "trance", "moombahton", "bass music (EDM)", "hard dance", "rave music", "electro-disco", "UK garage", "progressive electronic dance music", "UK funky", "grime", "glitch hop (EDM)", "synthwave", "experimental club music", "ghetto club", "funkot", "kuduro", "spacesynth", "wonky", "Eurobeat", "electrotango", "Nortec", "coupé-décalé", "electro swing", "broken beat", "Balearic beat", "electroclash", "skweee", "electro", "industrial dance", "US-Dancefloor", "dreck-electro", "glitch hop", "nu-disco", "bakalao", "tribal guarachero", "Hardcore Continuum", "shangaan electro", "Christian electronic dance music", "electro latino", "bass", "meme techno", "hardvapour", "tecnorumba", "Russ music", "shamstep", "powwow-step", "singeli", "breaks", "budots", "future rave", "tanzhammer-pop", "electro-jazz", "post-dubstep", "nerdcore techno", "Bahia house", "bubbling", "hard drum", "balani show", "flex dance music", "indie dance", "manyao", "dark disco", "Vocaloid music", "Japanese artcore", "partyschlager", "epadunk", "cruise", "dariacore", "ori deck", "hypertechno", "krushclub", "bloghouse", "slimepunk", "dek bass"]
+  },
+  "Q388906": {
+    "qid": "Q388906",
+    "label": "hardcore",
+    "children_qids": ["Q820049", "Q903735", "Q339906", "Q848457", "Q1585075", "Q3098078", "Q56580", "Q341396", "Q922865", "Q1191299", "Q1242484", "Q1265050", "Q1455487", "Q2181965", "Q3492949", "Q3501147", "Q3538739", "Q11830421", "Q12629666", "Q56342573", "Q106594174", "Q112663444", "Q113510667", "Q122839839", "Q123543092", "Q125854043", "Q127471087", "Q136696186"],
+    "children_labels": ["gabber", "breakcore", "happy hardcore", "speedcore", "breakbeat hardcore", "J-core", "digital hardcore", "acidcore", "trancecore", "industrial hardcore", "doomcore", "terrorcore", "Frenchcore", "freeform hardcore", "speedbass", "gabber metal", "tribe", "crossbreed", "deathcore", "dancecore", "uptempo hardcore", "Belgian hardcore techno", "artcore", "deathchant hardcore", "darkcore", "amigacore", "hard IDM", "frapcore"]
+  },
+  "Q251192": {
+    "qid": "Q251192",
+    "label": "downtempo",
+    "children_qids": "Q205560",
+    "children_labels": "trip hop"
+  },
+  "Q757143": {
+    "qid": "Q757143",
+    "label": "chill-out music",
+    "children_qids": ["Q251192", "Q2465085", "Q749475", "Q2866725", "Q3613770", "Q4993553", "Q9260728", "Q16837290", "Q24077837", "Q97265899", "Q106653596", "Q115456684"],
+    "children_labels": ["downtempo", "ambient house", "psybient", "Balearic beat", "ambient dub", "ambient trance", "flamenco chill", "Balearic trance", "psydub", "lofi hip-hop", "ambient breakbeat", "barber beats"]
+  },
+  "Q817138": {
+    "qid": "Q817138",
+    "label": "electronica",
+    "children_qids": ["Q325397", "Q2478478", "Q2549052", "Q1136331", "Q1091056", "Q1435509", "Q2406633", "Q6658771", "Q106641525"],
+    "children_labels": ["indietronica", "dubtronica", "ethnic electronica", "nu jazz", "funktronica", "folktronica", "broken beat", "livetronica", "Celtic electronica"]
+  },
+  "Q325504": {
+    "qid": "Q325504",
+    "label": "electronic rock",
+    "children_qids": ["Q476983", "Q25099691", "Q121494463", "Q124791567"],
+    "children_labels": ["synth-punk", "neon pop-punk", "Kosmische Musik", "Drum and bass electronic rock"]
+  },
+  "Q372103": {
+    "qid": "Q372103",
+    "label": "electronic body music",
+    "children_qids": ["Q4155078", "Q1890098", "Q828243", "Q2638634", "Q2693142", "Q9615674", "Q15957030", "Q106922571"],
+    "children_labels": ["dark electro", "new beat", "futurepop", "old school EBM", "techno body music", "anhalt EBM", "electro", "cybergoth music"]
+  },
+  "Q663519": {
+    "qid": "Q663519",
+    "label": "breakbeat",
+    "children_qids": ["Q106636289", "Q1585075", "Q4852979", "Q858579", "Q1756101", "Q2396639", "Q2634010", "Q11334714", "Q11680297", "Q25389262", "Q106521759", "Q106653596", "Q110874814"],
+    "children_labels": ["breakbeat kota", "breakbeat hardcore", "Baltimore club", "big beat", "nu skool breaks", "Florida breaks", "acid breaks", "breaktrance", "psybreaks", "progressive breaks", "funky breaks", "ambient breakbeat", "West Coast breaks"]
+  },
+  "Q660984": {
+    "qid": "Q660984",
+    "label": "intelligent dance music",
+    "children_qids": ["Q1259016", "Q127471087"],
+    "children_labels": ["drill and bass", "hard IDM"]
+  },
+  "Q217597": {
+    "qid": "Q217597",
+    "label": "electro",
+    "children_qids": ["Q106522238", "Q110584468", "Q110584608", "Q114878405"],
+    "children_labels": ["techno bass", "experimental electro", "neo-electro", "electro-techno"]
+  },
+  "Q325397": {
+    "qid": "Q325397",
+    "label": "indietronica",
+    "children_qids": "Q106528422",
+    "children_labels": "glitch pop"
+  },
+  "Q655514": {
+    "qid": "Q655514",
+    "label": "freestyle music",
+    "children_qids": "Q106594523",
+    "children_labels": "Latin freestyle"
+  },
+  "Q216961": {
+    "qid": "Q216961",
+    "label": "Eurodance",
+    "children_qids": ["Q930592", "Q109538574", "Q2076779"],
+    "children_labels": ["Italo dance", "vinahouse", "bubblegum dance"]
+  },
+  "Q188994": {
+    "qid": "Q188994",
+    "label": "drum and bass",
+    "children_qids": ["Q46649", "Q1102161", "Q2615500", "Q1166321", "Q106404300", "Q124791567", "Q646165", "Q967654", "Q1335569", "Q2082572", "Q2121992", "Q2640307", "Q3179786", "Q4040357", "Q4181927", "Q10268931", "Q24876318", "Q107010574", "Q107332291", "Q110584483", "Q110967939", "Q111804002", "Q114238485"],
+    "children_labels": ["jump-up", "jungle", "intelligent drum and bass", "darkstep", "minimal drum and bass", "Drum and bass electronic rock", "trancestep", "neurofunk", "techstep", "liquid funk", "drumfunk", "hardstep", "sambass", "halfstep", "technoid", "dubwise drum and bass", "drumstep", "halftime", "dancefloor drum and bass", "industrial drum and bass", "footwork jungle", "deep drum and bass", "meme techno"]
+  },
+  "Q170611": {
+    "qid": "Q170611",
+    "label": "techno",
+    "children_qids": ["Q3084222", "Q106521662", "Q29480448", "Q2693142", "Q112663444", "Q114878405", "Q341395", "Q526463", "Q1430587", "Q1738175", "Q2112253", "Q7845403", "Q9356246", "Q9364029", "Q10541010", "Q10856835", "Q22909461", "Q30765672", "Q30912999", "Q86674318", "Q105636937", "Q106522080", "Q107697221", "Q110185782", "Q111182811", "Q127470401"],
+    "children_labels": ["hard techno", "deep techno", "industrial techno", "techno body music", "Belgian hardcore techno", "electro-techno", "acid techno", "Detroit techno", "minimal techno", "Schaffel", "progressive techno", "Tromsø techno scene", "psytech", "UK hardcore (techno)", "Jtek", "wonky techno", "toytown techno", "turbine", "German techno", "Berlin techno", "experimental techno", "bleep techno", "hardgroove techno", "melodic techno", "peak time techno", "techno-tribal"]
+  },
+  "Q170435": {
+    "qid": "Q170435",
+    "label": "trance",
+    "children_qids": ["Q890887", "Q622871", "Q2260696", "Q1339027", "Q11334714", "Q16837290", "Q481900", "Q832665", "Q1027999", "Q1136765", "Q2302695", "Q2460288", "Q5402470", "Q5801257", "Q11877639", "Q30917047", "Q108831582", "Q110127020", "Q130474688", "Q130474689", "Q134997891"],
+    "children_labels": ["Eurotrance", "psychedelic trance", "progressive trance", "dream trance", "breaktrance", "Balearic trance", "acid trance", "hard trance", "vocal trance", "uplifting trance", "tech trance", "neo trance", "hard NRG", "deep trance", "electro trance", "classic trance", "big room trance", "tranceira", "hypnotic trance", "raw trance", "hi-tech full-on"]
+  },
+  "Q21092": {
+    "qid": "Q21092",
+    "label": "moombahton",
+    "children_qids": "Q27961199",
+    "children_labels": "moombahsoul"
+  },
+  "Q1326777": {
+    "qid": "Q1326777",
+    "label": "electroacoustic music",
+    "children_qids": ["Q131286868", "Q423918", "Q823560", "Q1866223", "Q3587612"],
+    "children_labels": ["fixed media", "acousmatic music", "musique concrète", "live electronic music", "electroacoustic improvisation"]
+  },
+  "Q98528166": {
+    "qid": "Q98528166",
+    "label": "Latin electronic music",
+    "children_qids": ["Q5071702", "Q1143744", "Q7844612", "Q19358266", "Q130474681"],
+    "children_labels": ["changa tuki", "digital cumbia", "tribal guarachero", "electro latino", "Latin tech"]
+  },
+  "Q2478478": {
+    "qid": "Q2478478",
+    "label": "dubtronica",
+    "children_qids": ["Q3613770", "Q24077837", "Q1262781"],
+    "children_labels": ["ambient dub", "psydub", "dub techno"]
+  },
+  "Q2549052": {
+    "qid": "Q2549052",
+    "label": "ethnic electronica",
+    "children_qids": "Q1976128",
+    "children_labels": "Asian Underground"
+  },
+  "Q1403744": {
+    "qid": "Q1403744",
+    "label": "electro-industrial",
+    "children_qids": "Q4155078",
+    "children_labels": "dark electro"
+  },
+  "Q5551384": {
+    "qid": "Q5551384",
+    "label": "German electronic music",
+    "children_qids": "Q5320459",
+    "children_labels": "Düsseldorf school"
+  },
+  "Q2342263": {
+    "qid": "Q2342263",
+    "label": "space music",
+    "children_qids": "Q16625659",
+    "children_labels": "space ambient"
+  },
+  "Q11308620": {
+    "qid": "Q11308620",
+    "label": "synth music",
+    "children_qids": ["Q79784514", "Q107985638"],
+    "children_labels": ["progressive electronic music", "horror synth"]
+  },
+  "Q3876770": {
+    "qid": "Q3876770",
+    "label": "nightcore",
+    "children_qids": "Q80480981",
+    "children_labels": "nightstep"
+  },
+  "Q4059163": {
+    "qid": "Q4059163",
+    "label": "classical electronic music",
+    "children_qids": "Q90730712",
+    "children_labels": "neo-classic music"
+  },
+  "Q1634085": {
+    "qid": "Q1634085",
+    "label": "tecno brega",
+    "children_qids": ["Q97278139", "Q117193818"],
+    "children_labels": ["brega funk", "tecnofunk"]
+  },
+  "Q6865341": {
+    "qid": "Q6865341",
+    "label": "minimal wave",
+    "children_qids": "Q98528171",
+    "children_labels": "minimal synth"
+  },
+  "Q65937906": {
+    "qid": "Q65937906",
+    "label": "leftfield electronic",
+    "children_qids": "Q105636940",
+    "children_labels": "leftfield house"
+  },
+  "Q1136331": {
+    "qid": "Q1136331",
+    "label": "nu jazz",
+    "children_qids": "Q107505833",
+    "children_labels": "jazzdance"
+  },
+  "Q2626684": {
+    "qid": "Q2626684",
+    "label": "chillwave",
+    "children_qids": "Q110620412",
+    "children_labels": "chillsynth"
+  },
+  "Q90568328": {
+    "qid": "Q90568328",
+    "label": "phonk",
+    "children_qids": ["Q112997482", "Q116314630", "Q126728409"],
+    "children_labels": ["drift phonk", "rare phonk", "doomshop phonk"]
+  },
+  "Q890887": {
+    "qid": "Q890887",
+    "label": "Eurotrance",
+    "children_qids": ["Q733804", "Q9348934", "Q114809047"],
+    "children_labels": ["hands up", "symphonic trance", "anthem trance"]
+  },
+  "Q598593": {
+    "qid": "Q598593",
+    "label": "tech house",
+    "children_qids": ["Q750811", "Q112829330", "Q122474257", "Q130474681"],
+    "children_labels": ["minimal house", "deep tech", "rominimal", "Latin tech"]
+  },
+  "Q1298934": {
+    "qid": "Q1298934",
+    "label": "synth-pop",
+    "children_qids": ["Q11319210", "Q828243", "Q3474944", "Q11339397", "Q24941533"],
+    "children_labels": ["techno-pop", "futurepop", "scan", "pon-chak disco", "spandau synthpop"]
+  },
+  "Q622871": {
+    "qid": "Q622871",
+    "label": "psychedelic trance",
+    "children_qids": ["Q835131", "Q2452152", "Q10286190", "Q2385862", "Q9356246", "Q2497323", "Q25389065", "Q109713845", "Q109713928", "Q109713947", "Q109714050", "Q109714096"],
+    "children_labels": ["Goa trance", "dark psytrance", "full-on", "progressive psytrance", "psytech", "suomisaundi", "minimal psytrance", "classic psytrance", "tribal psytrance", "offbeat psytrance", "uplifting psy", "forest psytrance"]
+  },
+  "Q627906": {
+    "qid": "Q627906",
+    "label": "electro house",
+    "children_qids": ["Q1228230", "Q11877639", "Q2365784", "Q11691380", "Q20047305", "Q110526823", "Q113493820"],
+    "children_labels": ["Dutch house", "electro trance", "fidget house", "complextro", "Melbourne bounce", "progressive electro house", "French electro"]
+  },
+  "Q2748817": {
+    "qid": "Q2748817",
+    "label": "ghetto house",
+    "children_qids": ["Q1521688", "Q24885387"],
+    "children_labels": ["ghettotech", "juke"]
+  },
+  "Q3032212": {
+    "qid": "Q3032212",
+    "label": "diva house",
+    "children_qids": "Q5655695",
+    "children_labels": "hardbag"
+  },
+  "Q30917612": {
+    "qid": "Q30917612",
+    "label": "Eurohouse",
+    "children_qids": "Q5655695",
+    "children_labels": "hardbag"
+  },
+  "Q1585015": {
+    "qid": "Q1585015",
+    "label": "hard house",
+    "children_qids": ["Q11831728", "Q6081528", "Q106522190"],
+    "children_labels": ["pumping house", "poky", "scouse house"]
+  },
+  "Q2260696": {
+    "qid": "Q2260696",
+    "label": "progressive trance",
+    "children_qids": "Q11882045",
+    "children_labels": "melodic trance"
+  },
+  "Q118324067": {
+    "qid": "Q118324067",
+    "label": "MIDI music",
+    "children_qids": "Q22964975",
+    "children_labels": "black MIDI"
+  },
+  "Q928825": {
+    "qid": "Q928825",
+    "label": "garage house",
+    "children_qids": "Q97277483",
+    "children_labels": "New Jersey sound"
+  },
+  "Q2271846": {
+    "qid": "Q2271846",
+    "label": "sampler-based music",
+    "children_qids": "Q106423092",
+    "children_labels": "tracker music"
+  },
+  "Q20021059": {
+    "qid": "Q20021059",
+    "label": "future house",
+    "children_qids": ["Q106493832", "Q106634926"],
+    "children_labels": ["slap house", "future bounce"]
+  },
+  "Q85748774": {
+    "qid": "Q85748774",
+    "label": "Brazilian bass",
+    "children_qids": ["Q106493832", "Q122474184"],
+    "children_labels": ["slap house", "mega funk"]
+  },
+  "Q874038": {
+    "qid": "Q874038",
+    "label": "deep house",
+    "children_qids": "Q108555812",
+    "children_labels": "lo-fi house"
+  },
+  "Q18358879": {
+    "qid": "Q18358879",
+    "label": "outsider house",
+    "children_qids": "Q108555812",
+    "children_labels": "lo-fi house"
+  },
+  "Q915152": {
+    "qid": "Q915152",
+    "label": "progressive house",
+    "children_qids": ["Q110526770", "Q110526823"],
+    "children_labels": ["dark progressive house", "progressive electro house"]
+  },
+  "Q202925": {
+    "qid": "Q202925",
+    "label": "tribal house",
+    "children_qids": "Q111678759",
+    "children_labels": "guaracha"
+  },
+  "Q107090501": {
+    "qid": "Q107090501",
+    "label": "Chicago hard house",
+    "children_qids": "Q111971801",
+    "children_labels": "LA hard house"
+  },
+  "Q27345019": {
+    "qid": "Q27345019",
+    "label": "bass house",
+    "children_qids": "Q114878571",
+    "children_labels": "speed house"
+  },
+  "Q85741139": {
+    "qid": "Q85741139",
+    "label": "amapiano",
+    "children_qids": "Q116745991",
+    "children_labels": "Afropiano"
+  },
+  "Q388100": {
+    "qid": "Q388100",
+    "label": "Afro house",
+    "children_qids": ["Q123413364", "Q127606394"],
+    "children_labels": ["Afro tech", "3-step"]
+  },
+  "Q1339027": {
+    "qid": "Q1339027",
+    "label": "dream trance",
+    "children_qids": "Q124151378",
+    "children_labels": "dream folk"
+  },
+  "Q29973057": {
+    "qid": "Q29973057",
+    "label": "gqom",
+    "children_qids": ["Q127606323", "Q127606347", "Q127606355", "Q127606361", "Q127606370", "Q127606375", "Q127606386", "Q127606390", "Q127606411"],
+    "children_labels": ["Afrikaans gqom", "core tribe", "electro gqom", "gospel gqom", "gqom tech", "gqom trap", "sgubhu", "taxi kick", "uThayela"]
+  },
+  "Q956717": {
+    "qid": "Q956717",
+    "label": "kwaito",
+    "children_qids": "Q135369460",
+    "children_labels": "bacardi"
+  },
+  "Q114880130": {
+    "qid": "Q114880130",
+    "label": "bass music (EDM)",
+    "children_qids": ["Q27345019", "Q20474", "Q22908553", "Q47781397", "Q5466607", "Q1460303", "Q2346991", "Q4846346", "Q6907397", "Q31836693", "Q106388388", "Q106477753", "Q106591506", "Q135493744"],
+    "children_labels": ["bass house", "dubstep", "future bass", "EDM trap music", "footwork", "funkstep", "UK bass", "bassline", "moombahcore", "jungle terror", "hardwave", "midtempo bass", "bubblegum bass", "melodic bass"]
+  },
+  "Q1033912": {
+    "qid": "Q1033912",
+    "label": "hard dance",
+    "children_qids": ["Q1585015", "Q223840", "Q2374619", "Q113600471", "Q56342573", "Q106594174", "Q832665", "Q5402470", "Q114878571", "Q389631", "Q1243254", "Q1983750", "Q3048168"],
+    "children_labels": ["hard house", "hardstyle", "UK hardcore", "hardtek", "dancecore", "uptempo hardcore", "hard trance", "hard NRG", "speed house", "jumpstyle", "lento violento", "mainstream hardcore", "mákina"]
+  },
+  "Q898709": {
+    "qid": "Q898709",
+    "label": "rave music",
+    "children_qids": ["Q1524033", "Q113600471", "Q1585075", "Q341364", "Q112663444", "Q3066180", "Q116952929"],
+    "children_labels": ["free tekno", "hardtek", "breakbeat hardcore", "acid house", "Belgian hardcore techno", "bouncy techno", "hyper techno"]
+  },
+  "Q79784514": {
+    "qid": "Q79784514",
+    "label": "progressive electronic music",
+    "children_qids": ["Q121494463", "Q530750"],
+    "children_labels": ["Kosmische Musik", "Berlin School of electronic music"]
+  },
+  "Q98528149": {
+    "qid": "Q98528149",
+    "label": "electro-disco",
+    "children_qids": ["Q744417", "Q606393", "Q2608506", "Q110226234"],
+    "children_labels": ["Italo disco", "Hi-NRG", "space disco", "red disco"]
+  },
+  "Q1165777": {
+    "qid": "Q1165777",
+    "label": "UK garage",
+    "children_qids": ["Q780517", "Q1751409", "Q1987980", "Q4846346", "Q5510816"],
+    "children_labels": ["speed garage", "2-step garage", "breakstep", "bassline", "future garage"]
+  },
+  "Q12200830": {
+    "qid": "Q12200830",
+    "label": "progressive electronic dance music",
+    "children_qids": ["Q2260696", "Q915152", "Q2385862", "Q25389262", "Q2112253"],
+    "children_labels": ["progressive trance", "progressive house", "progressive psytrance", "progressive breaks", "progressive techno"]
+  },
+  "Q4155078": {
+    "qid": "Q4155078",
+    "label": "dark electro",
+    "children_qids": "Q1091450",
+    "children_labels": "aggrotech"
+  },
+  "Q9364028": {
+    "qid": "Q9364028",
+    "label": "UK funky",
+    "children_qids": "Q1460303",
+    "children_labels": "funkstep"
+  },
+  "Q135637": {
+    "qid": "Q135637",
+    "label": "chiptune",
+    "children_qids": "Q2035976",
+    "children_labels": "Nintendocore"
+  },
+  "Q1100989": {
+    "qid": "Q1100989",
+    "label": "glitch",
+    "children_qids": ["Q3108920", "Q12037719", "Q12042106"],
+    "children_labels": ["glitch hop", "minimal glitch", "oceanic glitch"]
+  },
+  "Q1166726": {
+    "qid": "Q1166726",
+    "label": "grime",
+    "children_qids": ["Q3116754", "Q10360435", "Q28721502", "Q106654239", "Q123009321", "Q124333204"],
+    "children_labels": ["grindie", "rhythm & grime", "Finnish grime", "weightless", "neo-grime", "sinogrime"]
+  },
+  "Q106514601": {
+    "qid": "Q106514601",
+    "label": "glitch hop (EDM)",
+    "children_qids": ["Q18432631", "Q120715859"],
+    "children_labels": ["neurohop", "ghetto funk"]
+  },
+  "Q19938910": {
+    "qid": "Q19938910",
+    "label": "synthwave",
+    "children_qids": ["Q110620412", "Q30895273", "Q60973191"],
+    "children_labels": ["chillsynth", "Sovietwave", "darksynth"]
+  },
+  "Q110527222": {
+    "qid": "Q110527222",
+    "label": "experimental club music",
+    "children_qids": ["Q105636937", "Q96376113"],
+    "children_labels": ["experimental techno", "deconstructed club"]
+  },
+  "Q97278139": {
+    "qid": "Q97278139",
+    "label": "brega funk",
+    "children_qids": ["Q110127020", "Q97178866", "Q110127031"],
+    "children_labels": ["tranceira", "batidão romântico", "trip bit"]
+  },
+  "Q106576141": {
+    "qid": "Q106576141",
+    "label": "ghetto club",
+    "children_qids": ["Q107091813", "Q106576261"],
+    "children_labels": ["East Coast club", "bérite club"]
+  },
+  "Q11332204": {
+    "qid": "Q11332204",
+    "label": "funkot",
+    "children_qids": "Q106636289",
+    "children_labels": "breakbeat kota"
+  },
+  "Q1191544": {
+    "qid": "Q1191544",
+    "label": "kuduro",
+    "children_qids": "Q108297194",
+    "children_labels": "batida"
+  },
+  "Q4049849": {
+    "qid": "Q4049849",
+    "label": "spacesynth",
+    "children_qids": "Q108297232",
+    "children_labels": "doskpop"
+  },
+  "Q1136045": {
+    "qid": "Q1136045",
+    "label": "wonky",
+    "children_qids": "Q123922710",
+    "children_labels": "aquacrunk"
+  },
+  "Q848852": {
+    "qid": "Q848852",
+    "label": "Eurobeat",
+    "children_qids": "Q133520038",
+    "children_labels": "J-euro"
+  },
+  "Q20474": {
+    "qid": "Q20474",
+    "label": "dubstep",
+    "children_qids": ["Q20903", "Q65065491", "Q80480981", "Q2963621", "Q18393891", "Q98528158", "Q106404229", "Q109335331", "Q118798959"],
+    "children_labels": ["brostep", "riddim", "nightstep", "chillstep", "reggaestep", "purple sound", "melodic dubstep", "dungeon sound", "tearout dubstep"]
+  },
+  "Q223840": {
+    "qid": "Q223840",
+    "label": "hardstyle",
+    "children_qids": ["Q21000514", "Q2428625", "Q2611143", "Q108297238", "Q114743580", "Q136206123"],
+    "children_labels": ["rawstyle", "dubstyle", "early hardstyle", "euphoric hardstyle", "psystyle", "nustyle"]
+  },
+  "Q1524033": {
+    "qid": "Q1524033",
+    "label": "free tekno",
+    "children_qids": "Q3538739",
+    "children_labels": "tribe"
+  },
+  "Q835131": {
+    "qid": "Q835131",
+    "label": "Goa trance",
+    "children_qids": "Q4706203",
+    "children_labels": "nitzhonot"
+  },
+  "Q107091813": {
+    "qid": "Q107091813",
+    "label": "East Coast club",
+    "children_qids": ["Q4852979", "Q4965901", "Q106594102"],
+    "children_labels": ["Baltimore club", "Jersey club", "Philly club"]
+  },
+  "Q11319210": {
+    "qid": "Q11319210",
+    "label": "techno-pop",
+    "children_qids": "Q11319232",
+    "children_labels": "techno kayō"
+  },
+  "Q20903": {
+    "qid": "Q20903",
+    "label": "brostep",
+    "children_qids": ["Q65065491", "Q106528420", "Q24876318", "Q108197774", "Q119259589", "Q123421084"],
+    "children_labels": ["riddim", "deathstep", "drumstep", "colour bass", "tearout brostep", "briddim"]
+  },
+  "Q744417": {
+    "qid": "Q744417",
+    "label": "Italo disco",
+    "children_qids": "Q98076452",
+    "children_labels": "Sabadell Sound"
+  },
+  "Q2452152": {
+    "qid": "Q2452152",
+    "label": "dark psytrance",
+    "children_qids": ["Q105404852", "Q114107195"],
+    "children_labels": ["hi-tech psytrance", "psycore"]
+  },
+  "Q22908553": {
+    "qid": "Q22908553",
+    "label": "future bass",
+    "children_qids": "Q106577542",
+    "children_labels": "kawaii future bass"
+  },
+  "Q106636289": {
+    "qid": "Q106636289",
+    "label": "breakbeat kota",
+    "children_qids": "Q106636283",
+    "children_labels": "jungle dutch"
+  },
+  "Q47781397": {
+    "qid": "Q47781397",
+    "label": "EDM trap music",
+    "children_qids": ["Q107407607", "Q109753757", "Q111628716", "Q111653578", "Q111971785", "Q122910849"],
+    "children_labels": ["hard trap", "twerk", "festival trap", "hybrid trap", "heaven trap", "future trap"]
+  },
+  "Q106423092": {
+    "qid": "Q106423092",
+    "label": "tracker music",
+    "children_qids": ["Q125854043", "Q108297232", "Q125799361"],
+    "children_labels": ["amigacore", "doskpop", "demostyle"]
+  },
+  "Q10286190": {
+    "qid": "Q10286190",
+    "label": "full-on",
+    "children_qids": ["Q109714084", "Q109715091"],
+    "children_labels": ["twilight psytrance", "morning psytrance"]
+  },
+  "Q2385862": {
+    "qid": "Q2385862",
+    "label": "progressive psytrance",
+    "children_qids": "Q109715837",
+    "children_labels": "zenonesque"
+  },
+  "Q5466607": {
+    "qid": "Q5466607",
+    "label": "footwork",
+    "children_qids": "Q110967939",
+    "children_labels": "footwork jungle"
+  },
+  "Q2374619": {
+    "qid": "Q2374619",
+    "label": "UK hardcore",
+    "children_qids": ["Q113621229", "Q117750973"],
+    "children_labels": ["future core", "powerstomp"]
+  },
+  "Q21000514": {
+    "qid": "Q21000514",
+    "label": "rawstyle",
+    "children_qids": "Q114594005",
+    "children_labels": "rawphoric"
+  },
+  "Q65065491": {
+    "qid": "Q65065491",
+    "label": "riddim",
+    "children_qids": ["Q115690999", "Q136539124"],
+    "children_labels": ["future riddim", "liquid riddim"]
+  },
+  "Q113600471": {
+    "qid": "Q113600471",
+    "label": "hardtek",
+    "children_qids": ["Q117405746", "Q137442001"],
+    "children_labels": ["raggatek", "pumpcore"]
+  },
+  "Q1228230": {
+    "qid": "Q1228230",
+    "label": "Dutch house",
+    "children_qids": "Q130301602",
+    "children_labels": "noiadance"
+  },
+  "Q106422444": {
+    "qid": "Q106422444",
+    "label": "bit music",
+    "children_qids": ["Q118324067", "Q2271846", "Q135637", "Q773880", "Q1980100", "Q16894106", "Q106424145", "Q110942239"],
+    "children_labels": ["MIDI music", "sampler-based music", "chiptune", "bitpop", "8-bit music", "1-bit music", "FM synthesis", "bytebeat"]
+  },
+  "Q116985035": {
+    "qid": "Q116985035",
+    "label": "electronic pop",
+    "children_qids": ["Q655514", "Q1298934", "Q109378734", "Q19358266", "Q188450", "Q773880", "Q784310", "Q23301960", "Q28055053", "Q104695865"],
+    "children_labels": ["freestyle music", "synth-pop", "popcorn music", "electro latino", "electropop", "bitpop", "electro hop", "dark pop", "Q-pop", "hyperpop"]
+  },
+  "Q106576170": {
+    "qid": "Q106576170",
+    "label": "tribal music",
+    "children_qids": ["Q202925", "Q127470401", "Q98528139"],
+    "children_labels": ["tribal house", "techno-tribal", "tribal ambient"]
+  },
+  "Q106528337": {
+    "qid": "Q106528337",
+    "label": "acid music",
+    "children_qids": ["Q341364", "Q341396", "Q2634010", "Q341395", "Q481900"],
+    "children_labels": ["acid house", "acidcore", "acid breaks", "acid techno", "acid trance"]
+  },
+  "Q105763581": {
+    "qid": "Q105763581",
+    "label": "experimental electronic music",
+    "children_qids": ["Q1100989", "Q110527222", "Q110584468", "Q3503814", "Q3736049", "Q16002495", "Q108297242", "Q108907695", "Q111540473"],
+    "children_labels": ["glitch", "experimental club music", "experimental electro", "microsound", "experimental dub", "algorave", "flashcore", "clicks & cuts", "experimental jungle"]
+  },
+  "Q106369996": {
+    "qid": "Q106369996",
+    "label": "wave",
+    "children_qids": ["Q106388388", "Q123009321"],
+    "children_labels": ["hardwave", "neo-grime"]
+  },
+  "Q112997482": {
+    "qid": "Q112997482",
+    "label": "drift phonk",
+    "children_qids": ["Q123753500", "Q125455905"],
+    "children_labels": ["phonk house", "Brazilian phonk"]
+  },
+  "Q107697234": {
+    "qid": "Q107697234",
+    "label": "HexD",
+    "children_qids": "Q131529620",
+    "children_labels": "krushclub"
+  },
+  "Q3084222": {
+    "qid": "Q3084222",
+    "label": "hard techno",
+    "children_qids": ["Q1524033", "Q114238485", "Q3048168", "Q307054"],
+    "children_labels": ["free tekno", "meme techno", "mákina", "schranz"]
+  },
+  "Q820049": {
+    "qid": "Q820049",
+    "label": "gabber",
+    "children_qids": ["Q3501147", "Q1983750", "Q724755", "Q124357128", "Q124846645"],
+    "children_labels": ["gabber metal", "mainstream hardcore", "early hardcore", "gabberpop", "gabber punk"]
+  },
+  "Q46649": {
+    "qid": "Q46649",
+    "label": "jump-up",
+    "children_qids": "Q1102871",
+    "children_labels": "clownstep"
+  },
+  "Q106521662": {
+    "qid": "Q106521662",
+    "label": "deep techno",
+    "children_qids": ["Q1262781", "Q9149801"],
+    "children_labels": ["dub techno", "ambient techno"]
+  },
+  "Q903735": {
+    "qid": "Q903735",
+    "label": "breakcore",
+    "children_qids": ["Q1275972", "Q5978495", "Q109322851"],
+    "children_labels": ["raggacore", "lolicore", "mashcore"]
+  },
+  "Q339906": {
+    "qid": "Q339906",
+    "label": "happy hardcore",
+    "children_qids": ["Q2374619", "Q3066180", "Q4637208"],
+    "children_labels": ["UK hardcore", "bouncy techno", "4-beat"]
+  },
+  "Q1102161": {
+    "qid": "Q1102161",
+    "label": "jungle",
+    "children_qids": ["Q111540473", "Q2710523"],
+    "children_labels": ["experimental jungle", "ragga jungle"]
+  },
+  "Q2615500": {
+    "qid": "Q2615500",
+    "label": "intelligent drum and bass",
+    "children_qids": ["Q2842043", "Q9011351", "Q30919272"],
+    "children_labels": ["atmospheric drum and bass", "jazzstep", "artcore drum and bass"]
+  },
+  "Q848457": {
+    "qid": "Q848457",
+    "label": "speedcore",
+    "children_qids": ["Q3062629", "Q11312853", "Q135396723", "Q135396809"],
+    "children_labels": ["extratone", "splittercore", "hypertone", "supertone"]
+  },
+  "Q1585075": {
+    "qid": "Q1585075",
+    "label": "breakbeat hardcore",
+    "children_qids": ["Q4177625", "Q4637208", "Q11693017"],
+    "children_labels": ["hardcore breaks", "4-beat", "darkcore"]
+  },
+  "Q1166321": {
+    "qid": "Q1166321",
+    "label": "darkstep",
+    "children_qids": ["Q11830421", "Q108716407"],
+    "children_labels": ["crossbreed", "skullstep"]
+  },
+  "Q29480448": {
+    "qid": "Q29480448",
+    "label": "industrial techno",
+    "children_qids": "Q16951912",
+    "children_labels": "Birmingham sound"
+  },
+  "Q1890098": {
+    "qid": "Q1890098",
+    "label": "new beat",
+    "children_qids": "Q106577108",
+    "children_labels": "hard beat"
+  },
+  "Q930592": {
+    "qid": "Q930592",
+    "label": "Italo dance",
+    "children_qids": "Q109589387",
+    "children_labels": "manyao"
+  },
+  "Q205560": {
+    "qid": "Q205560",
+    "label": "trip hop",
+    "children_qids": "Q110127031",
+    "children_labels": "trip bit"
+  },
+  "Q3098078": {
+    "qid": "Q3098078",
+    "label": "J-core",
+    "children_qids": "Q113621229",
+    "children_labels": "future core"
+  },
+  "Q106522238": {
+    "qid": "Q106522238",
+    "label": "techno bass",
+    "children_qids": "Q130325403",
+    "children_labels": "car audio bass"
+  },
+  "Q106404300": {
+    "qid": "Q106404300",
+    "label": "minimal drum and bass",
+    "children_qids": ["Q135437342", "Q135553474"],
+    "children_labels": ["microfunk", "autonomic"]
+  },
+  "Q11831728": {
+    "qid": "Q11831728",
+    "label": "pumping house",
+    "children_qids": "Q28458027",
+    "children_labels": "hardbass"
+  },
+  "Q106528420": {
+    "qid": "Q106528420",
+    "label": "deathstep",
+    "children_qids": "Q109713720",
+    "children_labels": "minatory"
+  },
+  "Q106577542": {
+    "qid": "Q106577542",
+    "label": "kawaii future bass",
+    "children_qids": "Q113621229",
+    "children_labels": "future core"
+  },
+  "Q733804": {
+    "qid": "Q733804",
+    "label": "hands up",
+    "children_qids": "Q132165415",
+    "children_labels": "buchiage trance"
+  },
+  "Q173844": {
+    "qid": "Q173844",
+    "label": "vocal house",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q181999": {
+    "qid": "Q181999",
+    "label": "minimal electro",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q341364": {
+    "qid": "Q341364",
+    "label": "acid house",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q360596": {
+    "qid": "Q360596",
+    "label": "disco house",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q601235": {
+    "qid": "Q601235",
+    "label": "hip house",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q780517": {
+    "qid": "Q780517",
+    "label": "speed garage",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q863539": {
+    "qid": "Q863539",
+    "label": "binaural beats",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q949369": {
+    "qid": "Q949369",
+    "label": "funky house",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q1071961": {
+    "qid": "Q1071961",
+    "label": "Chicago house",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q1415568": {
+    "qid": "Q1415568",
+    "label": "filter house",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q1455292": {
+    "qid": "Q1455292",
+    "label": "French house",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q1658757": {
+    "qid": "Q1658757",
+    "label": "illbient",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q1840167": {
+    "qid": "Q1840167",
+    "label": "witch house",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q1931555": {
+    "qid": "Q1931555",
+    "label": "microhouse",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q1938987": {
+    "qid": "Q1938987",
+    "label": "club house",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q2304103": {
+    "qid": "Q2304103",
+    "label": "Sound of Frankfurt",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q2465085": {
+    "qid": "Q2465085",
+    "label": "ambient house",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q2702280": {
+    "qid": "Q2702280",
+    "label": "Italo house",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q3050572": {
+    "qid": "Q3050572",
+    "label": "electro urban",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q3056538": {
+    "qid": "Q3056538",
+    "label": "Latin house",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q3476798": {
+    "qid": "Q3476798",
+    "label": "seapunk",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q4736507": {
+    "qid": "Q4736507",
+    "label": "alternative electronic",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q4852979": {
+    "qid": "Q4852979",
+    "label": "Baltimore club",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q5071702": {
+    "qid": "Q5071702",
+    "label": "changa tuki",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q5358022": {
+    "qid": "Q5358022",
+    "label": "electrogaze",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q5502126": {
+    "qid": "Q5502126",
+    "label": "French electronic music",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q5597175": {
+    "qid": "Q5597175",
+    "label": "graphical sound",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q9298306": {
+    "qid": "Q9298306",
+    "label": "electro-goth",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q9373944": {
+    "qid": "Q9373944",
+    "label": "vixa",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q11693015": {
+    "qid": "Q11693015",
+    "label": "dark house",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q11696996": {
+    "qid": "Q11696996",
+    "label": "epic house",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q15300817": {
+    "qid": "Q15300817",
+    "label": "big room house",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q17231682": {
+    "qid": "Q17231682",
+    "label": "A&D",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q18342587": {
+    "qid": "Q18342587",
+    "label": "tropical house",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q21260785": {
+    "qid": "Q21260785",
+    "label": "rara tech",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q25407483": {
+    "qid": "Q25407483",
+    "label": "stadium house",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q48770362": {
+    "qid": "Q48770362",
+    "label": "Chilean electronic music",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q56342439": {
+    "qid": "Q56342439",
+    "label": "dream house",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q60729751": {
+    "qid": "Q60729751",
+    "label": "soulful house",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q66686936": {
+    "qid": "Q66686936",
+    "label": "electro-orchestral music",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q80725127": {
+    "qid": "Q80725127",
+    "label": "future funk",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q98804240": {
+    "qid": "Q98804240",
+    "label": "disk drive music",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q106574871": {
+    "qid": "Q106574871",
+    "label": "beatdown",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q107486984": {
+    "qid": "Q107486984",
+    "label": "electro-folk",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q108297235": {
+    "qid": "Q108297235",
+    "label": "epic collage",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q110593076": {
+    "qid": "Q110593076",
+    "label": "Levant electronic music",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q110593078": {
+    "qid": "Q110593078",
+    "label": "Maghreb electronic music",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q111387914": {
+    "qid": "Q111387914",
+    "label": "moogsploitation",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q115063474": {
+    "qid": "Q115063474",
+    "label": "digital fusion",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q115200681": {
+    "qid": "Q115200681",
+    "label": "electro-R&B",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q122216296": {
+    "qid": "Q122216296",
+    "label": "sigma music",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q124851801": {
+    "qid": "Q124851801",
+    "label": "acholitronix",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q127470373": {
+    "qid": "Q127470373",
+    "label": "electro dub",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q129098689": {
+    "qid": "Q129098689",
+    "label": "maloya électronique",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q131286868": {
+    "qid": "Q131286868",
+    "label": "fixed media",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q134983275": {
+    "qid": "Q134983275",
+    "label": "aliencore",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q56580": {
+    "qid": "Q56580",
+    "label": "digital hardcore",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q341396": {
+    "qid": "Q341396",
+    "label": "acidcore",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q362515": {
+    "qid": "Q362515",
+    "label": "electrotango",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q382343": {
+    "qid": "Q382343",
+    "label": "Nortec",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q476983": {
+    "qid": "Q476983",
+    "label": "synth-punk",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q513357": {
+    "qid": "Q513357",
+    "label": "coupé-décalé",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q602561": {
+    "qid": "Q602561",
+    "label": "electro swing",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q749475": {
+    "qid": "Q749475",
+    "label": "psybient",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q828243": {
+    "qid": "Q828243",
+    "label": "futurepop",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q858579": {
+    "qid": "Q858579",
+    "label": "big beat",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q922865": {
+    "qid": "Q922865",
+    "label": "trancecore",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q1091056": {
+    "qid": "Q1091056",
+    "label": "funktronica",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q1191299": {
+    "qid": "Q1191299",
+    "label": "industrial hardcore",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q1242484": {
+    "qid": "Q1242484",
+    "label": "doomcore",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q1259016": {
+    "qid": "Q1259016",
+    "label": "drill and bass",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q1265050": {
+    "qid": "Q1265050",
+    "label": "terrorcore",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q1435509": {
+    "qid": "Q1435509",
+    "label": "folktronica",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q1455487": {
+    "qid": "Q1455487",
+    "label": "Frenchcore",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q1756101": {
+    "qid": "Q1756101",
+    "label": "nu skool breaks",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q2181965": {
+    "qid": "Q2181965",
+    "label": "freeform hardcore",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q2396639": {
+    "qid": "Q2396639",
+    "label": "Florida breaks",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q2406633": {
+    "qid": "Q2406633",
+    "label": "broken beat",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q2634010": {
+    "qid": "Q2634010",
+    "label": "acid breaks",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q2638634": {
+    "qid": "Q2638634",
+    "label": "old school EBM",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q2693142": {
+    "qid": "Q2693142",
+    "label": "techno body music",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q2866725": {
+    "qid": "Q2866725",
+    "label": "Balearic beat",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q3492949": {
+    "qid": "Q3492949",
+    "label": "speedbass",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q3501147": {
+    "qid": "Q3501147",
+    "label": "gabber metal",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q3538739": {
+    "qid": "Q3538739",
+    "label": "tribe",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q3613770": {
+    "qid": "Q3613770",
+    "label": "ambient dub",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q4993553": {
+    "qid": "Q4993553",
+    "label": "ambient trance",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q6658771": {
+    "qid": "Q6658771",
+    "label": "livetronica",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q9260728": {
+    "qid": "Q9260728",
+    "label": "flamenco chill",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q9615674": {
+    "qid": "Q9615674",
+    "label": "anhalt EBM",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q11334714": {
+    "qid": "Q11334714",
+    "label": "breaktrance",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q11680297": {
+    "qid": "Q11680297",
+    "label": "psybreaks",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q11830421": {
+    "qid": "Q11830421",
+    "label": "crossbreed",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q12629666": {
+    "qid": "Q12629666",
+    "label": "deathcore",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q15957030": {
+    "qid": "Q15957030",
+    "label": "electro",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q16837290": {
+    "qid": "Q16837290",
+    "label": "Balearic trance",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q24077837": {
+    "qid": "Q24077837",
+    "label": "psydub",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q25099691": {
+    "qid": "Q25099691",
+    "label": "neon pop-punk",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q25389262": {
+    "qid": "Q25389262",
+    "label": "progressive breaks",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q56342573": {
+    "qid": "Q56342573",
+    "label": "dancecore",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q97265899": {
+    "qid": "Q97265899",
+    "label": "lofi hip-hop",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q106521759": {
+    "qid": "Q106521759",
+    "label": "funky breaks",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q106528422": {
+    "qid": "Q106528422",
+    "label": "glitch pop",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q106594174": {
+    "qid": "Q106594174",
+    "label": "uptempo hardcore",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q106594523": {
+    "qid": "Q106594523",
+    "label": "Latin freestyle",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q106641525": {
+    "qid": "Q106641525",
+    "label": "Celtic electronica",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q106653596": {
+    "qid": "Q106653596",
+    "label": "ambient breakbeat",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q106922571": {
+    "qid": "Q106922571",
+    "label": "cybergoth music",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q109538574": {
+    "qid": "Q109538574",
+    "label": "vinahouse",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q110584468": {
+    "qid": "Q110584468",
+    "label": "experimental electro",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q110584608": {
+    "qid": "Q110584608",
+    "label": "neo-electro",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q110874814": {
+    "qid": "Q110874814",
+    "label": "West Coast breaks",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q112663444": {
+    "qid": "Q112663444",
+    "label": "Belgian hardcore techno",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q113510667": {
+    "qid": "Q113510667",
+    "label": "artcore",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q114878405": {
+    "qid": "Q114878405",
+    "label": "electro-techno",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q115456684": {
+    "qid": "Q115456684",
+    "label": "barber beats",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q121494463": {
+    "qid": "Q121494463",
+    "label": "Kosmische Musik",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q122839839": {
+    "qid": "Q122839839",
+    "label": "deathchant hardcore",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q123543092": {
+    "qid": "Q123543092",
+    "label": "darkcore",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q124791567": {
+    "qid": "Q124791567",
+    "label": "Drum and bass electronic rock",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q125854043": {
+    "qid": "Q125854043",
+    "label": "amigacore",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q127471087": {
+    "qid": "Q127471087",
+    "label": "hard IDM",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q136696186": {
+    "qid": "Q136696186",
+    "label": "frapcore",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q341395": {
+    "qid": "Q341395",
+    "label": "acid techno",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q481900": {
+    "qid": "Q481900",
+    "label": "acid trance",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q526463": {
+    "qid": "Q526463",
+    "label": "Detroit techno",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q646165": {
+    "qid": "Q646165",
+    "label": "trancestep",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q832665": {
+    "qid": "Q832665",
+    "label": "hard trance",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q967654": {
+    "qid": "Q967654",
+    "label": "neurofunk",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q1027999": {
+    "qid": "Q1027999",
+    "label": "vocal trance",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q1136765": {
+    "qid": "Q1136765",
+    "label": "uplifting trance",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q1335569": {
+    "qid": "Q1335569",
+    "label": "techstep",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q1430587": {
+    "qid": "Q1430587",
+    "label": "minimal techno",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q1738175": {
+    "qid": "Q1738175",
+    "label": "Schaffel",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q2076779": {
+    "qid": "Q2076779",
+    "label": "bubblegum dance",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q2082572": {
+    "qid": "Q2082572",
+    "label": "liquid funk",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q2112253": {
+    "qid": "Q2112253",
+    "label": "progressive techno",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q2121992": {
+    "qid": "Q2121992",
+    "label": "drumfunk",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q2302695": {
+    "qid": "Q2302695",
+    "label": "tech trance",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q2460288": {
+    "qid": "Q2460288",
+    "label": "neo trance",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q2640307": {
+    "qid": "Q2640307",
+    "label": "hardstep",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q3179786": {
+    "qid": "Q3179786",
+    "label": "sambass",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q4040357": {
+    "qid": "Q4040357",
+    "label": "halfstep",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q4181927": {
+    "qid": "Q4181927",
+    "label": "technoid",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q5402470": {
+    "qid": "Q5402470",
+    "label": "hard NRG",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q5801257": {
+    "qid": "Q5801257",
+    "label": "deep trance",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q7845403": {
+    "qid": "Q7845403",
+    "label": "Tromsø techno scene",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q9356246": {
+    "qid": "Q9356246",
+    "label": "psytech",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q9364029": {
+    "qid": "Q9364029",
+    "label": "UK hardcore (techno)",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q10268931": {
+    "qid": "Q10268931",
+    "label": "dubwise drum and bass",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q10541010": {
+    "qid": "Q10541010",
+    "label": "Jtek",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q10856835": {
+    "qid": "Q10856835",
+    "label": "wonky techno",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q11877639": {
+    "qid": "Q11877639",
+    "label": "electro trance",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q22909461": {
+    "qid": "Q22909461",
+    "label": "toytown techno",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q24876318": {
+    "qid": "Q24876318",
+    "label": "drumstep",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q27961199": {
+    "qid": "Q27961199",
+    "label": "moombahsoul",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q30765672": {
+    "qid": "Q30765672",
+    "label": "turbine",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q30912999": {
+    "qid": "Q30912999",
+    "label": "German techno",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q30917047": {
+    "qid": "Q30917047",
+    "label": "classic trance",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q86674318": {
+    "qid": "Q86674318",
+    "label": "Berlin techno",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q98088041": {
+    "qid": "Q98088041",
+    "label": "smurf house",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q105636937": {
+    "qid": "Q105636937",
+    "label": "experimental techno",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q105636940": {
+    "qid": "Q105636940",
+    "label": "leftfield house",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q105637110": {
+    "qid": "Q105637110",
+    "label": "jazz house",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q106522080": {
+    "qid": "Q106522080",
+    "label": "bleep techno",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q106522098": {
+    "qid": "Q106522098",
+    "label": "ballroom",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q106634944": {
+    "qid": "Q106634944",
+    "label": "festival progressive house",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q107010574": {
+    "qid": "Q107010574",
+    "label": "halftime",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q107332291": {
+    "qid": "Q107332291",
+    "label": "dancefloor drum and bass",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q107697041": {
+    "qid": "Q107697041",
+    "label": "g-house",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q107697221": {
+    "qid": "Q107697221",
+    "label": "hardgroove techno",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q108297203": {
+    "qid": "Q108297203",
+    "label": "bubbling house",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q108321657": {
+    "qid": "Q108321657",
+    "label": "jackin' house",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q108610259": {
+    "qid": "Q108610259",
+    "label": "circuit house",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q108610706": {
+    "qid": "Q108610706",
+    "label": "Detroit house",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q108831582": {
+    "qid": "Q108831582",
+    "label": "big room trance",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q109146989": {
+    "qid": "Q109146989",
+    "label": "piano house",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q109148913": {
+    "qid": "Q109148913",
+    "label": "organic house",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q109378734": {
+    "qid": "Q109378734",
+    "label": "popcorn music",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q110101956": {
+    "qid": "Q110101956",
+    "label": "eletrofunk",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q110127020": {
+    "qid": "Q110127020",
+    "label": "tranceira",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q110185782": {
+    "qid": "Q110185782",
+    "label": "melodic techno",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q110584483": {
+    "qid": "Q110584483",
+    "label": "industrial drum and bass",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q110967939": {
+    "qid": "Q110967939",
+    "label": "footwork jungle",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q111182811": {
+    "qid": "Q111182811",
+    "label": "peak time techno",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q111804002": {
+    "qid": "Q111804002",
+    "label": "deep drum and bass",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q114238485": {
+    "qid": "Q114238485",
+    "label": "meme techno",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q116296482": {
+    "qid": "Q116296482",
+    "label": "melodic house",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q116875230": {
+    "qid": "Q116875230",
+    "label": "gospel house",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q119438497": {
+    "qid": "Q119438497",
+    "label": "UK jackin'",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q123753500": {
+    "qid": "Q123753500",
+    "label": "phonk house",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q126175574": {
+    "qid": "Q126175574",
+    "label": "stutter house",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q127470401": {
+    "qid": "Q127470401",
+    "label": "techno-tribal",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q130474688": {
+    "qid": "Q130474688",
+    "label": "hypnotic trance",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q130474689": {
+    "qid": "Q130474689",
+    "label": "raw trance",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q134997891": {
+    "qid": "Q134997891",
+    "label": "hi-tech full-on",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q423918": {
+    "qid": "Q423918",
+    "label": "acousmatic music",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q823560": {
+    "qid": "Q823560",
+    "label": "musique concrète",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q861823": {
+    "qid": "Q861823",
+    "label": "electroclash",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q888137": {
+    "qid": "Q888137",
+    "label": "skweee",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q1143744": {
+    "qid": "Q1143744",
+    "label": "digital cumbia",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q1262781": {
+    "qid": "Q1262781",
+    "label": "dub techno",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q1325944": {
+    "qid": "Q1325944",
+    "label": "electro",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q1661924": {
+    "qid": "Q1661924",
+    "label": "industrial dance",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q1866223": {
+    "qid": "Q1866223",
+    "label": "live electronic music",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q1976128": {
+    "qid": "Q1976128",
+    "label": "Asian Underground",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q2467789": {
+    "qid": "Q2467789",
+    "label": "US-Dancefloor",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q3039303": {
+    "qid": "Q3039303",
+    "label": "dreck-electro",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q3108920": {
+    "qid": "Q3108920",
+    "label": "glitch hop",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q3587612": {
+    "qid": "Q3587612",
+    "label": "electroacoustic improvisation",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q4045538": {
+    "qid": "Q4045538",
+    "label": "nu-disco",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q5320459": {
+    "qid": "Q5320459",
+    "label": "Düsseldorf school",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q5716953": {
+    "qid": "Q5716953",
+    "label": "bakalao",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q7844612": {
+    "qid": "Q7844612",
+    "label": "tribal guarachero",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q10293901": {
+    "qid": "Q10293901",
+    "label": "Hardcore Continuum",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q16625659": {
+    "qid": "Q16625659",
+    "label": "space ambient",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q17146868": {
+    "qid": "Q17146868",
+    "label": "shangaan electro",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q18379604": {
+    "qid": "Q18379604",
+    "label": "Christian electronic dance music",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q19358266": {
+    "qid": "Q19358266",
+    "label": "electro latino",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q21006606": {
+    "qid": "Q21006606",
+    "label": "bass",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q25408203": {
+    "qid": "Q25408203",
+    "label": "meme techno",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q30594541": {
+    "qid": "Q30594541",
+    "label": "hardvapour",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q30902501": {
+    "qid": "Q30902501",
+    "label": "tecnorumba",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q55641646": {
+    "qid": "Q55641646",
+    "label": "Russ music",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q55641735": {
+    "qid": "Q55641735",
+    "label": "shamstep",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q56276781": {
+    "qid": "Q56276781",
+    "label": "powwow-step",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q65330805": {
+    "qid": "Q65330805",
+    "label": "singeli",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q65937774": {
+    "qid": "Q65937774",
+    "label": "breaks",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q80480981": {
+    "qid": "Q80480981",
+    "label": "nightstep",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q90730712": {
+    "qid": "Q90730712",
+    "label": "neo-classic music",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q98528171": {
+    "qid": "Q98528171",
+    "label": "minimal synth",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q100922002": {
+    "qid": "Q100922002",
+    "label": "budots",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q101109587": {
+    "qid": "Q101109587",
+    "label": "future rave",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q104602773": {
+    "qid": "Q104602773",
+    "label": "tanzhammer-pop",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q105672644": {
+    "qid": "Q105672644",
+    "label": "electro-jazz",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q106130091": {
+    "qid": "Q106130091",
+    "label": "post-dubstep",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q106520965": {
+    "qid": "Q106520965",
+    "label": "nerdcore techno",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q106547179": {
+    "qid": "Q106547179",
+    "label": "Bahia house",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q106876075": {
+    "qid": "Q106876075",
+    "label": "bubbling",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q107505833": {
+    "qid": "Q107505833",
+    "label": "jazzdance",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q107697201": {
+    "qid": "Q107697201",
+    "label": "hard drum",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q107985638": {
+    "qid": "Q107985638",
+    "label": "horror synth",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q108297187": {
+    "qid": "Q108297187",
+    "label": "balani show",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q108297243": {
+    "qid": "Q108297243",
+    "label": "flex dance music",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q109469638": {
+    "qid": "Q109469638",
+    "label": "indie dance",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q109589387": {
+    "qid": "Q109589387",
+    "label": "manyao",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q109873537": {
+    "qid": "Q109873537",
+    "label": "dark disco",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q110391587": {
+    "qid": "Q110391587",
+    "label": "Vocaloid music",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q110620412": {
+    "qid": "Q110620412",
+    "label": "chillsynth",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q111442385": {
+    "qid": "Q111442385",
+    "label": "Japanese artcore",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q114443489": {
+    "qid": "Q114443489",
+    "label": "partyschlager",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q115890848": {
+    "qid": "Q115890848",
+    "label": "epadunk",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q116314630": {
+    "qid": "Q116314630",
+    "label": "rare phonk",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q117193818": {
+    "qid": "Q117193818",
+    "label": "tecnofunk",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q117198196": {
+    "qid": "Q117198196",
+    "label": "cruise",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q120484427": {
+    "qid": "Q120484427",
+    "label": "dariacore",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q122932896": {
+    "qid": "Q122932896",
+    "label": "ori deck",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q126335126": {
+    "qid": "Q126335126",
+    "label": "hypertechno",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q126728409": {
+    "qid": "Q126728409",
+    "label": "doomshop phonk",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q131529620": {
+    "qid": "Q131529620",
+    "label": "krushclub",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q132324210": {
+    "qid": "Q132324210",
+    "label": "bloghouse",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q134380635": {
+    "qid": "Q134380635",
+    "label": "slimepunk",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q135437136": {
+    "qid": "Q135437136",
+    "label": "dek bass",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q750811": {
+    "qid": "Q750811",
+    "label": "minimal house",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q1521688": {
+    "qid": "Q1521688",
+    "label": "ghettotech",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q2365784": {
+    "qid": "Q2365784",
+    "label": "fidget house",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q2497323": {
+    "qid": "Q2497323",
+    "label": "suomisaundi",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q3474944": {
+    "qid": "Q3474944",
+    "label": "scan",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q5655695": {
+    "qid": "Q5655695",
+    "label": "hardbag",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q6081528": {
+    "qid": "Q6081528",
+    "label": "poky",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q9348934": {
+    "qid": "Q9348934",
+    "label": "symphonic trance",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q11339397": {
+    "qid": "Q11339397",
+    "label": "pon-chak disco",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q11691380": {
+    "qid": "Q11691380",
+    "label": "complextro",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q11882045": {
+    "qid": "Q11882045",
+    "label": "melodic trance",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q20047305": {
+    "qid": "Q20047305",
+    "label": "Melbourne bounce",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q22964975": {
+    "qid": "Q22964975",
+    "label": "black MIDI",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q24885387": {
+    "qid": "Q24885387",
+    "label": "juke",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q24941533": {
+    "qid": "Q24941533",
+    "label": "spandau synthpop",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q25389065": {
+    "qid": "Q25389065",
+    "label": "minimal psytrance",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q97277483": {
+    "qid": "Q97277483",
+    "label": "New Jersey sound",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q106493832": {
+    "qid": "Q106493832",
+    "label": "slap house",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q106522190": {
+    "qid": "Q106522190",
+    "label": "scouse house",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q106634926": {
+    "qid": "Q106634926",
+    "label": "future bounce",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q108555812": {
+    "qid": "Q108555812",
+    "label": "lo-fi house",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q109713845": {
+    "qid": "Q109713845",
+    "label": "classic psytrance",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q109713928": {
+    "qid": "Q109713928",
+    "label": "tribal psytrance",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q109713947": {
+    "qid": "Q109713947",
+    "label": "offbeat psytrance",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q109714050": {
+    "qid": "Q109714050",
+    "label": "uplifting psy",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q109714096": {
+    "qid": "Q109714096",
+    "label": "forest psytrance",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q110526770": {
+    "qid": "Q110526770",
+    "label": "dark progressive house",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q110526823": {
+    "qid": "Q110526823",
+    "label": "progressive electro house",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q111678759": {
+    "qid": "Q111678759",
+    "label": "guaracha",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q111971801": {
+    "qid": "Q111971801",
+    "label": "LA hard house",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q112829330": {
+    "qid": "Q112829330",
+    "label": "deep tech",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q113493820": {
+    "qid": "Q113493820",
+    "label": "French electro",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q114809047": {
+    "qid": "Q114809047",
+    "label": "anthem trance",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q114878571": {
+    "qid": "Q114878571",
+    "label": "speed house",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q116745991": {
+    "qid": "Q116745991",
+    "label": "Afropiano",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q122474184": {
+    "qid": "Q122474184",
+    "label": "mega funk",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q122474257": {
+    "qid": "Q122474257",
+    "label": "rominimal",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q123413364": {
+    "qid": "Q123413364",
+    "label": "Afro tech",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q124151378": {
+    "qid": "Q124151378",
+    "label": "dream folk",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q127606323": {
+    "qid": "Q127606323",
+    "label": "Afrikaans gqom",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q127606347": {
+    "qid": "Q127606347",
+    "label": "core tribe",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q127606355": {
+    "qid": "Q127606355",
+    "label": "electro gqom",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q127606361": {
+    "qid": "Q127606361",
+    "label": "gospel gqom",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q127606370": {
+    "qid": "Q127606370",
+    "label": "gqom tech",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q127606375": {
+    "qid": "Q127606375",
+    "label": "gqom trap",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q127606386": {
+    "qid": "Q127606386",
+    "label": "sgubhu",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q127606390": {
+    "qid": "Q127606390",
+    "label": "taxi kick",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q127606394": {
+    "qid": "Q127606394",
+    "label": "3-step",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q127606411": {
+    "qid": "Q127606411",
+    "label": "uThayela",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q130474681": {
+    "qid": "Q130474681",
+    "label": "Latin tech",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q135369460": {
+    "qid": "Q135369460",
+    "label": "bacardi",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q389631": {
+    "qid": "Q389631",
+    "label": "jumpstyle",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q530750": {
+    "qid": "Q530750",
+    "label": "Berlin School of electronic music",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q606393": {
+    "qid": "Q606393",
+    "label": "Hi-NRG",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q1091450": {
+    "qid": "Q1091450",
+    "label": "aggrotech",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q1243254": {
+    "qid": "Q1243254",
+    "label": "lento violento",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q1460303": {
+    "qid": "Q1460303",
+    "label": "funkstep",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q1751409": {
+    "qid": "Q1751409",
+    "label": "2-step garage",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q1983750": {
+    "qid": "Q1983750",
+    "label": "mainstream hardcore",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q1987980": {
+    "qid": "Q1987980",
+    "label": "breakstep",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q2035976": {
+    "qid": "Q2035976",
+    "label": "Nintendocore",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q2346991": {
+    "qid": "Q2346991",
+    "label": "UK bass",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q2608506": {
+    "qid": "Q2608506",
+    "label": "space disco",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q3048168": {
+    "qid": "Q3048168",
+    "label": "mákina",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q3066180": {
+    "qid": "Q3066180",
+    "label": "bouncy techno",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q3116754": {
+    "qid": "Q3116754",
+    "label": "grindie",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q4846346": {
+    "qid": "Q4846346",
+    "label": "bassline",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q5510816": {
+    "qid": "Q5510816",
+    "label": "future garage",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q6907397": {
+    "qid": "Q6907397",
+    "label": "moombahcore",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q10360435": {
+    "qid": "Q10360435",
+    "label": "rhythm & grime",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q12037719": {
+    "qid": "Q12037719",
+    "label": "minimal glitch",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q12042106": {
+    "qid": "Q12042106",
+    "label": "oceanic glitch",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q18432631": {
+    "qid": "Q18432631",
+    "label": "neurohop",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q28721502": {
+    "qid": "Q28721502",
+    "label": "Finnish grime",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q30895273": {
+    "qid": "Q30895273",
+    "label": "Sovietwave",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q31836693": {
+    "qid": "Q31836693",
+    "label": "jungle terror",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q60973191": {
+    "qid": "Q60973191",
+    "label": "darksynth",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q96376113": {
+    "qid": "Q96376113",
+    "label": "deconstructed club",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q97178866": {
+    "qid": "Q97178866",
+    "label": "batidão romântico",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q106388388": {
+    "qid": "Q106388388",
+    "label": "hardwave",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q106477753": {
+    "qid": "Q106477753",
+    "label": "midtempo bass",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q106576261": {
+    "qid": "Q106576261",
+    "label": "bérite club",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q106591506": {
+    "qid": "Q106591506",
+    "label": "bubblegum bass",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q106654239": {
+    "qid": "Q106654239",
+    "label": "weightless",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q108297194": {
+    "qid": "Q108297194",
+    "label": "batida",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q108297232": {
+    "qid": "Q108297232",
+    "label": "doskpop",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q110127031": {
+    "qid": "Q110127031",
+    "label": "trip bit",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q110226234": {
+    "qid": "Q110226234",
+    "label": "red disco",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q116952929": {
+    "qid": "Q116952929",
+    "label": "hyper techno",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q120715859": {
+    "qid": "Q120715859",
+    "label": "ghetto funk",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q123009321": {
+    "qid": "Q123009321",
+    "label": "neo-grime",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q123922710": {
+    "qid": "Q123922710",
+    "label": "aquacrunk",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q124333204": {
+    "qid": "Q124333204",
+    "label": "sinogrime",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q133520038": {
+    "qid": "Q133520038",
+    "label": "J-euro",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q135493744": {
+    "qid": "Q135493744",
+    "label": "melodic bass",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q2428625": {
+    "qid": "Q2428625",
+    "label": "dubstyle",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q2611143": {
+    "qid": "Q2611143",
+    "label": "early hardstyle",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q2963621": {
+    "qid": "Q2963621",
+    "label": "chillstep",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q4706203": {
+    "qid": "Q4706203",
+    "label": "nitzhonot",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q4965901": {
+    "qid": "Q4965901",
+    "label": "Jersey club",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q11319232": {
+    "qid": "Q11319232",
+    "label": "techno kayō",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q18393891": {
+    "qid": "Q18393891",
+    "label": "reggaestep",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q98076452": {
+    "qid": "Q98076452",
+    "label": "Sabadell Sound",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q98528158": {
+    "qid": "Q98528158",
+    "label": "purple sound",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q105404852": {
+    "qid": "Q105404852",
+    "label": "hi-tech psytrance",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q106404229": {
+    "qid": "Q106404229",
+    "label": "melodic dubstep",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q106594102": {
+    "qid": "Q106594102",
+    "label": "Philly club",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q106636283": {
+    "qid": "Q106636283",
+    "label": "jungle dutch",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q107407607": {
+    "qid": "Q107407607",
+    "label": "hard trap",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q108197774": {
+    "qid": "Q108197774",
+    "label": "colour bass",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q108297238": {
+    "qid": "Q108297238",
+    "label": "euphoric hardstyle",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q109335331": {
+    "qid": "Q109335331",
+    "label": "dungeon sound",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q109714084": {
+    "qid": "Q109714084",
+    "label": "twilight psytrance",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q109715091": {
+    "qid": "Q109715091",
+    "label": "morning psytrance",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q109715837": {
+    "qid": "Q109715837",
+    "label": "zenonesque",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q109753757": {
+    "qid": "Q109753757",
+    "label": "twerk",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q111628716": {
+    "qid": "Q111628716",
+    "label": "festival trap",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q111653578": {
+    "qid": "Q111653578",
+    "label": "hybrid trap",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q111971785": {
+    "qid": "Q111971785",
+    "label": "heaven trap",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q113621229": {
+    "qid": "Q113621229",
+    "label": "future core",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q114107195": {
+    "qid": "Q114107195",
+    "label": "psycore",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q114594005": {
+    "qid": "Q114594005",
+    "label": "rawphoric",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q114743580": {
+    "qid": "Q114743580",
+    "label": "psystyle",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q115690999": {
+    "qid": "Q115690999",
+    "label": "future riddim",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q117405746": {
+    "qid": "Q117405746",
+    "label": "raggatek",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q117750973": {
+    "qid": "Q117750973",
+    "label": "powerstomp",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q118798959": {
+    "qid": "Q118798959",
+    "label": "tearout dubstep",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q119259589": {
+    "qid": "Q119259589",
+    "label": "tearout brostep",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q122910849": {
+    "qid": "Q122910849",
+    "label": "future trap",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q123421084": {
+    "qid": "Q123421084",
+    "label": "briddim",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q125799361": {
+    "qid": "Q125799361",
+    "label": "demostyle",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q130301602": {
+    "qid": "Q130301602",
+    "label": "noiadance",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q136206123": {
+    "qid": "Q136206123",
+    "label": "nustyle",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q136539124": {
+    "qid": "Q136539124",
+    "label": "liquid riddim",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q137442001": {
+    "qid": "Q137442001",
+    "label": "pumpcore",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q188450": {
+    "qid": "Q188450",
+    "label": "electropop",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q773880": {
+    "qid": "Q773880",
+    "label": "bitpop",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q784310": {
+    "qid": "Q784310",
+    "label": "electro hop",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q1980100": {
+    "qid": "Q1980100",
+    "label": "8-bit music",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q3503814": {
+    "qid": "Q3503814",
+    "label": "microsound",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q3736049": {
+    "qid": "Q3736049",
+    "label": "experimental dub",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q16002495": {
+    "qid": "Q16002495",
+    "label": "algorave",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q16894106": {
+    "qid": "Q16894106",
+    "label": "1-bit music",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q23301960": {
+    "qid": "Q23301960",
+    "label": "dark pop",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q28055053": {
+    "qid": "Q28055053",
+    "label": "Q-pop",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q98528139": {
+    "qid": "Q98528139",
+    "label": "tribal ambient",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q104695865": {
+    "qid": "Q104695865",
+    "label": "hyperpop",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q106424145": {
+    "qid": "Q106424145",
+    "label": "FM synthesis",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q108297242": {
+    "qid": "Q108297242",
+    "label": "flashcore",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q108907695": {
+    "qid": "Q108907695",
+    "label": "clicks & cuts",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q110942239": {
+    "qid": "Q110942239",
+    "label": "bytebeat",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q111540473": {
+    "qid": "Q111540473",
+    "label": "experimental jungle",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q125455905": {
+    "qid": "Q125455905",
+    "label": "Brazilian phonk",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q307054": {
+    "qid": "Q307054",
+    "label": "schranz",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q724755": {
+    "qid": "Q724755",
+    "label": "early hardcore",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q1102871": {
+    "qid": "Q1102871",
+    "label": "clownstep",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q1275972": {
+    "qid": "Q1275972",
+    "label": "raggacore",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q2710523": {
+    "qid": "Q2710523",
+    "label": "ragga jungle",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q2842043": {
+    "qid": "Q2842043",
+    "label": "atmospheric drum and bass",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q3062629": {
+    "qid": "Q3062629",
+    "label": "extratone",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q4177625": {
+    "qid": "Q4177625",
+    "label": "hardcore breaks",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q4637208": {
+    "qid": "Q4637208",
+    "label": "4-beat",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q5978495": {
+    "qid": "Q5978495",
+    "label": "lolicore",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q9011351": {
+    "qid": "Q9011351",
+    "label": "jazzstep",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q9149801": {
+    "qid": "Q9149801",
+    "label": "ambient techno",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q11312853": {
+    "qid": "Q11312853",
+    "label": "splittercore",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q11693017": {
+    "qid": "Q11693017",
+    "label": "darkcore",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q16951912": {
+    "qid": "Q16951912",
+    "label": "Birmingham sound",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q30919272": {
+    "qid": "Q30919272",
+    "label": "artcore drum and bass",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q106577108": {
+    "qid": "Q106577108",
+    "label": "hard beat",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q108716407": {
+    "qid": "Q108716407",
+    "label": "skullstep",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q109322851": {
+    "qid": "Q109322851",
+    "label": "mashcore",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q124357128": {
+    "qid": "Q124357128",
+    "label": "gabberpop",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q124846645": {
+    "qid": "Q124846645",
+    "label": "gabber punk",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q130325403": {
+    "qid": "Q130325403",
+    "label": "car audio bass",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q135396723": {
+    "qid": "Q135396723",
+    "label": "hypertone",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q135396809": {
+    "qid": "Q135396809",
+    "label": "supertone",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q135437342": {
+    "qid": "Q135437342",
+    "label": "microfunk",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q135553474": {
+    "qid": "Q135553474",
+    "label": "autonomic",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q28458027": {
+    "qid": "Q28458027",
+    "label": "hardbass",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q109713720": {
+    "qid": "Q109713720",
+    "label": "minatory",
+    "children_qids": [],
+    "children_labels": []
+  },
+  "Q132165415": {
+    "qid": "Q132165415",
+    "label": "buchiage trance",
+    "children_qids": [],
+    "children_labels": []
+  }
+}
